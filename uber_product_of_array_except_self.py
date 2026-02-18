@@ -1,3 +1,11 @@
+# author: Rodolfo Franca de Souza
+# mail: souzafrodolfo@gmail.com
+# date: 2026-02-16
+# license: GPLv3
+# topics: arrays
+# difficulty: medium
+#
+
 import math
 
 

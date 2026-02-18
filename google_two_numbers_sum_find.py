@@ -1,3 +1,11 @@
+# author: Rodolfo Franca de Souza
+# mail: souzafrodolfo@gmail.com
+# date: 2026-02-16
+# license: GPLv3
+# topics: arrays, hash set
+# difficulty: easy
+#
+
 def find_value_two_pass():
     lst = [10, 15, 3, 7]
     k = 17

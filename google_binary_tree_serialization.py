@@ -1,7 +1,9 @@
 # author: Rodolfo Franca de Souza
 # mail: souzafrodolfo@gmail.com
-# date: 2025-02-17
+# date: 2026-02-17
 # license: GPLv3
+# topics: trees, recursion
+# difficulty: medium
 #
 # Good morning! Here's your coding interview problem for today.
 #
